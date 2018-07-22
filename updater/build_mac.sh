@@ -12,6 +12,8 @@ rm -f "/Library/Application Support/Aliflang/Alif_Studio/mupdate"
 rm -f "mupdate.o"
 rm -f "bin/mac_mupdate"
 
+mkdir "bin"
+
 file="/Library/Application Support/Aliflang/Alif_Studio/mupdate"
 if [ -e "$file" ]; then
 	echo 
