@@ -47,8 +47,8 @@ Hello World in Alif - أهلا بالعالم
 طريقة الأستعمال
 -------
 
-```scheme
-$ alif (source.alif / aliflib) (output binary)  (logfile)
+```
+$ alif [source.alif / aliflib] [output binary]  [logfile]
 ```
 
 ويندوز
@@ -68,11 +68,11 @@ $ alif foo.alif bar log.txt
 ماك أوس
 ---------
 
-```scheme
+```
 $ alif foo.alif bar.app log.txt
 ```
 
-طريقة ترجمة شيفرة 
+طريقة ترجمة الشيفرة المصدرية للمشروع
 ---------
 
 1 - تثبيث [ألف ستوديو](www.aliflang.org/download)
