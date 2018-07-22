@@ -9,7 +9,9 @@ The Alif Arabic Programming Language - لغة البرمجة العربية أل
 يقوم التطبيق بتحميل الملفات التالية : 
 
 http://www.aliflang.org/update/win32_alif_version.inf
+
 http://www.aliflang.org/update/win32_aliflibwx_version.inf
+
 http://www.aliflang.org/update/win32_alifstudio_version.inf
 
 ثم مقارنتها مع الملفات التالية
