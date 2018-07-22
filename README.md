@@ -2,7 +2,7 @@
 The Alif Arabic Programming Language - لغة البرمجة العربية ألف
 ---------
 
-[www.aliflang.org](https://www.aliflang.org)
+Official website : [www.aliflang.org](https://www.aliflang.org)
 
 ![alt text](https://www.aliflang.org/images/alif_calc.png)
 
@@ -39,6 +39,11 @@ Hello World in Alif - أهلا بالعالم
  
 نهاية نافدة 
 ```
+
+كيف يعمل مترجم ألف ؟
+-------
+
+مترجم ألف يقوم بترجمة لغة ألف إلى لغة سي++ مع إستعمال مكتبات [وكس ويدجيتز](https://github.com/wxWidgets)
 
 Licence
 -------
