@@ -4,6 +4,8 @@ The Alif Arabic Programming Language - لغة البرمجة العربية أل
 
 [www.aliflang.org](https://www.aliflang.org)
 
+![alt text](https://www.aliflang.org/images/alif_calc.png)
+
 ماهي لغة ألف ؟
 ---------
 
