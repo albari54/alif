@@ -1,7 +1,6 @@
 // ========================
 // (C)2018 Hassan DRAGA
 // mUpdate
-// Linux 64
 // www.aliflang.org
 // License : wxWindows Library Licence, Version 3.1
 // ========================
@@ -21,10 +20,10 @@
 #include <wx/protocol/http.h> // HTTP
 #include <wx/wfstream.h>
 #include <wx/filesys.h>
-#include <wx/zipstrm.h>		// Zip
-#include <wx/utils.h>		// Kill Process
-#include <wx/stdpaths.h>	// Get Path
-#include <wx/filename.h>	// Path tools
+#include <wx/zipstrm.h>			// Zip
+#include <wx/utils.h>				// Kill Process
+#include <wx/stdpaths.h>			// Get Path
+#include <wx/filename.h>			// Path tools
 //#include <wx/mimetype.h>	// To run .deb files..
 
 using namespace std;
@@ -168,6 +167,15 @@ FRAME_1 :: FRAME_1() :
 	// -------------------
 
 	#ifdef _WIN32
+	
+		// Windows
+
+		// C:\Program Files (x86)\Alif Studio
+		//									 -->\alif.exe
+		//									 -->\bin\gcc.exe
+		//									 -->\include\wx\wx.h
+		//									 -->\lib\libwxmsw31u_alif_lib_core
+		//									 -->\aliflib\msg.aliflib
 
 		wxFileName fname( ::wxStandardPaths::Get().GetExecutablePath() );
 
