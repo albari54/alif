@@ -10,7 +10,7 @@ The Alif Arabic Programming Language - لغة البرمجة العربية أل
 -------
 
 ```scheme
-$ alif [[source.alif / aliflib]] [[output binary]]  [[logfile]]
+$ alif (source.alif / aliflib) (output binary)  (logfile)
 ```
 
 ويندوز
