@@ -10,7 +10,7 @@ The Alif Arabic Programming Language - لغة البرمجة العربية أل
 -------
 
 ```scheme
-$ alif [source.alif / aliflib] [output binary]  [logfile]
+$ alif [[source.alif / aliflib]] [[output binary]]  [[logfile]]
 ```
 
 ويندوز
@@ -38,7 +38,9 @@ $ alif foo.alif bar.app log.txt
 ---------
 
 1 - تثبيث [ألف ستوديو](www.aliflang.org/download)
+
 2 - التأكد في محتوى سكريبت الترجمة من مسار مجلد اللذي ثم فيه تثبيث ألف ستوديو
+
 3 - إستعمال ملف سكريبت الترجمة
 
 بالتوفيق،
