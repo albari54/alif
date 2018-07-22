@@ -27,7 +27,7 @@ Official website : [www.aliflang.org](https://www.aliflang.org)
 
 Hello World in Alif - أهلا بالعالم
 
-```scheme
+```
 #ألف 
  
 نافدة رئيسية 
@@ -48,20 +48,20 @@ Hello World in Alif - أهلا بالعالم
 -------
 
 ```
-$ alif [source.alif / aliflib] [output binary]  [logfile]
+$ alif [source.alif / source.aliflib] [output binary]  [logfile]
 ```
 
 ويندوز
 ---------
 
-```scheme
+```
 $ alif foo.alif bar.exe log.txt
 ```
 
 لينكس
 ---------
 
-```scheme
+```
 $ alif foo.alif bar log.txt
 ```
 

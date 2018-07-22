@@ -9,28 +9,28 @@ The Alif Arabic Programming Language - لغة البرمجة العربية أل
 طريقة الأستعمال
 -------
 
-```scheme
-$ alif [source.alif / aliflib] [output binary]  [logfile]
+```
+$ alif [source.alif / source.aliflib] [output binary]  [logfile]
 ```
 
 ويندوز
 ---------
 
-```scheme
+```
 $ alif foo.alif bar.exe log.txt
 ```
 
 لينكس
 ---------
 
-```scheme
+```
 $ alif foo.alif bar log.txt
 ```
 
 ماك أوس
 ---------
 
-```scheme
+```
 $ alif foo.alif bar.app log.txt
 ```
 
